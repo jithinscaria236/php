@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="yello">
+<body bgcolor="yellow">
 <?php
 echo "HI JITHIN! Welcome to OPENSHIFT Deployment"
 ?>
