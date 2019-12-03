@@ -1,7 +1,7 @@
 <html>
-<body bgcolor="green">
+<body bgcolor="cyan">
 <?php
-echo "HI JITHIN! Welcome to OPENSHIFT Deployment uuu"
+echo "HI JITHIN! Welcome to OPENSHIFT Deployment"
 ?>
 </body>
 </html>
